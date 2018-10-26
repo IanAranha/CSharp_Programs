@@ -1,25 +1,14 @@
-﻿<Properties StartupConfiguration="{9009C504-8AAE-40A6-A11A-CA61793A1DC8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProceduralProgramming/Program.cs">
+﻿<Properties StartupConfiguration="{C893E947-1F88-4BE1-AC0B-F118E41CCF59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ExerciseFiles4/ExerciseFiles4/Program.cs">
     <Files>
-      <File FileName="ProceduralProgramming/Program.cs" Line="1" Column="1" />
+      <File FileName="../ExerciseFiles4/ExerciseFiles4/Program.cs" Line="31" Column="77" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ProceduralProgramming" expanded="True">
-            <Node name="ProceduralProgramming" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ProceduralProgramming PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ProceduralProgramming PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
