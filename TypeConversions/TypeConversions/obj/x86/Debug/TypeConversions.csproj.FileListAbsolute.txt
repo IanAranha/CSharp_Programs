@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/TypeConversions/TypeConversions/bin/Debug/TypeConversions.exe
+/Users/ianaranha/Desktop/CSharp/TypeConversions/TypeConversions/bin/Debug/TypeConversions.pdb
+/Users/ianaranha/Desktop/CSharp/TypeConversions/TypeConversions/obj/x86/Debug/TypeConversions.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/TypeConversions/TypeConversions/obj/x86/Debug/TypeConversions.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/TypeConversions/TypeConversions/obj/x86/Debug/TypeConversions.exe
+/Users/ianaranha/Desktop/CSharp/TypeConversions/TypeConversions/obj/x86/Debug/TypeConversions.pdb

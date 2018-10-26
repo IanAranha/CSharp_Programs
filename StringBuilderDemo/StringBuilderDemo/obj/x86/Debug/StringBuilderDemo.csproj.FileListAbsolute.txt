@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/StringBuilderDemo/StringBuilderDemo/bin/Debug/StringBuilderDemo.exe
+/Users/ianaranha/Desktop/CSharp/StringBuilderDemo/StringBuilderDemo/bin/Debug/StringBuilderDemo.pdb
+/Users/ianaranha/Desktop/CSharp/StringBuilderDemo/StringBuilderDemo/obj/x86/Debug/StringBuilderDemo.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/StringBuilderDemo/StringBuilderDemo/obj/x86/Debug/StringBuilderDemo.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/StringBuilderDemo/StringBuilderDemo/obj/x86/Debug/StringBuilderDemo.exe
+/Users/ianaranha/Desktop/CSharp/StringBuilderDemo/StringBuilderDemo/obj/x86/Debug/StringBuilderDemo.pdb

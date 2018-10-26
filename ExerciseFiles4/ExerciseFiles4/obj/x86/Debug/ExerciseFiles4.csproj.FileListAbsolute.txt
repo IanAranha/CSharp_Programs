@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles4/ExerciseFiles4/bin/Debug/ExerciseFiles4.exe
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles4/ExerciseFiles4/bin/Debug/ExerciseFiles4.pdb
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles4/ExerciseFiles4/obj/x86/Debug/ExerciseFiles4.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles4/ExerciseFiles4/obj/x86/Debug/ExerciseFiles4.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles4/ExerciseFiles4/obj/x86/Debug/ExerciseFiles4.exe
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles4/ExerciseFiles4/obj/x86/Debug/ExerciseFiles4.pdb

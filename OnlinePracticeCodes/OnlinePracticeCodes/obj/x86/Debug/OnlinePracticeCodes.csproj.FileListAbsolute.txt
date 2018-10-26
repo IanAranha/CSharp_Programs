@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/OnlinePracticeCodes/OnlinePracticeCodes/bin/Debug/OnlinePracticeCodes.exe
+/Users/ianaranha/Desktop/CSharp/OnlinePracticeCodes/OnlinePracticeCodes/bin/Debug/OnlinePracticeCodes.pdb
+/Users/ianaranha/Desktop/CSharp/OnlinePracticeCodes/OnlinePracticeCodes/obj/x86/Debug/OnlinePracticeCodes.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/OnlinePracticeCodes/OnlinePracticeCodes/obj/x86/Debug/OnlinePracticeCodes.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/OnlinePracticeCodes/OnlinePracticeCodes/obj/x86/Debug/OnlinePracticeCodes.exe
+/Users/ianaranha/Desktop/CSharp/OnlinePracticeCodes/OnlinePracticeCodes/obj/x86/Debug/OnlinePracticeCodes.pdb

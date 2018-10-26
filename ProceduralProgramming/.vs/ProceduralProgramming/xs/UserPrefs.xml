@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9009C504-8AAE-40A6-A11A-CA61793A1DC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProceduralProgramming/Program.cs">
+    <Files>
+      <File FileName="ProceduralProgramming/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProceduralProgramming" expanded="True">
+            <Node name="ProceduralProgramming" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProceduralProgramming PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

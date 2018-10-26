@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderDemo", "StringBuilderDemo\StringBuilderDemo.csproj", "{B7D74D9A-233E-4E20-BF4E-916D6CF5BECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D74D9A-233E-4E20-BF4E-916D6CF5BECE}.Debug|x86.ActiveCfg = Debug|x86
+		{B7D74D9A-233E-4E20-BF4E-916D6CF5BECE}.Debug|x86.Build.0 = Debug|x86
+		{B7D74D9A-233E-4E20-BF4E-916D6CF5BECE}.Release|x86.ActiveCfg = Release|x86
+		{B7D74D9A-233E-4E20-BF4E-916D6CF5BECE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

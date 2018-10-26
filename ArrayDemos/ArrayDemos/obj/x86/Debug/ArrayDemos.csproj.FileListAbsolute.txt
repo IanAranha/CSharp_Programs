@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/ArrayDemos/ArrayDemos/obj/x86/Debug/ArrayDemos.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/ArrayDemos/ArrayDemos/obj/x86/Debug/ArrayDemos.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/ArrayDemos/ArrayDemos/bin/Debug/ArrayDemos.exe
+/Users/ianaranha/Desktop/CSharp/ArrayDemos/ArrayDemos/bin/Debug/ArrayDemos.pdb
+/Users/ianaranha/Desktop/CSharp/ArrayDemos/ArrayDemos/obj/x86/Debug/ArrayDemos.exe
+/Users/ianaranha/Desktop/CSharp/ArrayDemos/ArrayDemos/obj/x86/Debug/ArrayDemos.pdb

@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/StringsDemos/StringsDemos/bin/Debug/StringsDemos.exe
+/Users/ianaranha/Desktop/CSharp/StringsDemos/StringsDemos/bin/Debug/StringsDemos.pdb
+/Users/ianaranha/Desktop/CSharp/StringsDemos/StringsDemos/obj/x86/Debug/StringsDemos.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/StringsDemos/StringsDemos/obj/x86/Debug/StringsDemos.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/StringsDemos/StringsDemos/obj/x86/Debug/StringsDemos.exe
+/Users/ianaranha/Desktop/CSharp/StringsDemos/StringsDemos/obj/x86/Debug/StringsDemos.pdb

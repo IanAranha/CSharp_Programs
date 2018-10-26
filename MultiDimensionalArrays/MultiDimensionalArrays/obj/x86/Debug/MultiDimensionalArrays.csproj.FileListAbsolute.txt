@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/MultiDimensionalArrays.exe
+/Users/ianaranha/Desktop/CSharp/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/MultiDimensionalArrays.pdb
+/Users/ianaranha/Desktop/CSharp/MultiDimensionalArrays/MultiDimensionalArrays/obj/x86/Debug/MultiDimensionalArrays.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/MultiDimensionalArrays/MultiDimensionalArrays/obj/x86/Debug/MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/MultiDimensionalArrays/MultiDimensionalArrays/obj/x86/Debug/MultiDimensionalArrays.exe
+/Users/ianaranha/Desktop/CSharp/MultiDimensionalArrays/MultiDimensionalArrays/obj/x86/Debug/MultiDimensionalArrays.pdb

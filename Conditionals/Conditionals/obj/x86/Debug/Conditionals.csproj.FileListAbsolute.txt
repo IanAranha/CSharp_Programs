@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/Conditionals/Conditionals/bin/Debug/Conditionals.exe
+/Users/ianaranha/Desktop/CSharp/Conditionals/Conditionals/bin/Debug/Conditionals.pdb
+/Users/ianaranha/Desktop/CSharp/Conditionals/Conditionals/obj/x86/Debug/Conditionals.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/Conditionals/Conditionals/obj/x86/Debug/Conditionals.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/Conditionals/Conditionals/obj/x86/Debug/Conditionals.exe
+/Users/ianaranha/Desktop/CSharp/Conditionals/Conditionals/obj/x86/Debug/Conditionals.pdb

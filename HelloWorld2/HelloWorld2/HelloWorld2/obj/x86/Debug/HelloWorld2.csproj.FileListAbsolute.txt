@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/HelloWorld2.exe
+/Users/ianaranha/Desktop/CSharp/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/HelloWorld2.pdb
+/Users/ianaranha/Desktop/CSharp/HelloWorld2/HelloWorld2/HelloWorld2/obj/x86/Debug/HelloWorld2.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/HelloWorld2/HelloWorld2/HelloWorld2/obj/x86/Debug/HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/HelloWorld2/HelloWorld2/HelloWorld2/obj/x86/Debug/HelloWorld2.exe
+/Users/ianaranha/Desktop/CSharp/HelloWorld2/HelloWorld2/HelloWorld2/obj/x86/Debug/HelloWorld2.pdb

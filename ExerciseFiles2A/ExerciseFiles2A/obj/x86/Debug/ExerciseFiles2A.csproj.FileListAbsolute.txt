@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles2A/ExerciseFiles2A/bin/Debug/ExerciseFiles2A.exe
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles2A/ExerciseFiles2A/bin/Debug/ExerciseFiles2A.pdb
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles2A/ExerciseFiles2A/obj/x86/Debug/ExerciseFiles2A.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles2A/ExerciseFiles2A/obj/x86/Debug/ExerciseFiles2A.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles2A/ExerciseFiles2A/obj/x86/Debug/ExerciseFiles2A.exe
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles2A/ExerciseFiles2A/obj/x86/Debug/ExerciseFiles2A.pdb

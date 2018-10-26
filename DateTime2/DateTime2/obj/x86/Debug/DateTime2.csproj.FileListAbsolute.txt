@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/DateTime2/DateTime2/bin/Debug/DateTime2.exe
+/Users/ianaranha/Desktop/CSharp/DateTime2/DateTime2/bin/Debug/DateTime2.pdb
+/Users/ianaranha/Desktop/CSharp/DateTime2/DateTime2/obj/x86/Debug/DateTime2.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/DateTime2/DateTime2/obj/x86/Debug/DateTime2.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/DateTime2/DateTime2/obj/x86/Debug/DateTime2.exe
+/Users/ianaranha/Desktop/CSharp/DateTime2/DateTime2/obj/x86/Debug/DateTime2.pdb

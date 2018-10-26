@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/Scopes/Scopes/Scopes/bin/Debug/Scopes.exe
+/Users/ianaranha/Desktop/CSharp/Scopes/Scopes/Scopes/bin/Debug/Scopes.pdb
+/Users/ianaranha/Desktop/CSharp/Scopes/Scopes/Scopes/obj/x86/Debug/Scopes.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/Scopes/Scopes/Scopes/obj/x86/Debug/Scopes.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/Scopes/Scopes/Scopes/obj/x86/Debug/Scopes.exe
+/Users/ianaranha/Desktop/CSharp/Scopes/Scopes/Scopes/obj/x86/Debug/Scopes.pdb

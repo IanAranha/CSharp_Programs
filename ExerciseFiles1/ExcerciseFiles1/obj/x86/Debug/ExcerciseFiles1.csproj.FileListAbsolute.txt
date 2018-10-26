@@ -1,0 +1,6 @@
+/Users/ianaranha/Projects/ExcerciseFiles1/ExcerciseFiles1/bin/Debug/ExcerciseFiles1.exe
+/Users/ianaranha/Projects/ExcerciseFiles1/ExcerciseFiles1/bin/Debug/ExcerciseFiles1.pdb
+/Users/ianaranha/Projects/ExcerciseFiles1/ExcerciseFiles1/obj/x86/Debug/ExcerciseFiles1.csprojAssemblyReference.cache
+/Users/ianaranha/Projects/ExcerciseFiles1/ExcerciseFiles1/obj/x86/Debug/ExcerciseFiles1.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Projects/ExcerciseFiles1/ExcerciseFiles1/obj/x86/Debug/ExcerciseFiles1.exe
+/Users/ianaranha/Projects/ExcerciseFiles1/ExcerciseFiles1/obj/x86/Debug/ExcerciseFiles1.pdb

@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles3/ExerciseFiles3/bin/Debug/ExerciseFiles3.exe
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles3/ExerciseFiles3/bin/Debug/ExerciseFiles3.pdb
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles3/ExerciseFiles3/obj/x86/Debug/ExerciseFiles3.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles3/ExerciseFiles3/obj/x86/Debug/ExerciseFiles3.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles3/ExerciseFiles3/obj/x86/Debug/ExerciseFiles3.exe
+/Users/ianaranha/Desktop/CSharp/ExerciseFiles3/ExerciseFiles3/obj/x86/Debug/ExerciseFiles3.pdb

@@ -1,0 +1,6 @@
+/Users/ianaranha/Desktop/CSharp/ListDemo/ListDemo/bin/Debug/ListDemo.exe
+/Users/ianaranha/Desktop/CSharp/ListDemo/ListDemo/bin/Debug/ListDemo.pdb
+/Users/ianaranha/Desktop/CSharp/ListDemo/ListDemo/obj/x86/Debug/ListDemo.csprojAssemblyReference.cache
+/Users/ianaranha/Desktop/CSharp/ListDemo/ListDemo/obj/x86/Debug/ListDemo.csproj.CoreCompileInputs.cache
+/Users/ianaranha/Desktop/CSharp/ListDemo/ListDemo/obj/x86/Debug/ListDemo.exe
+/Users/ianaranha/Desktop/CSharp/ListDemo/ListDemo/obj/x86/Debug/ListDemo.pdb
